@@ -1,5 +1,3 @@
-# README.md
-
 # Evaluation Framework for Spanish Medical Applications of Large Language Models
 
 ## Overview

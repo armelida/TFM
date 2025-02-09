@@ -1,4 +1,4 @@
-# LICENSE.md
+# License
 
 ## License Information
 
