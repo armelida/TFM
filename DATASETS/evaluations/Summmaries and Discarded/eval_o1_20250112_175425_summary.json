@@ -1,0 +1,12 @@
+{
+  "model": "o1-preview-2024-09-12",
+  "total_questions": 174,
+  "completed": 174,
+  "errors": 0,
+  "correct": 161,
+  "accuracy": 0.9252873563218391,
+  "avg_time": 10.426806741747363,
+  "avg_tokens": 1395.1954022988505,
+  "invalid_formats": 0,
+  "valid_responses": 174
+}

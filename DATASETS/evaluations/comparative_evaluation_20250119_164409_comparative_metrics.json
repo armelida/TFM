@@ -1,0 +1,29 @@
+{
+  "vanilla": {
+    "total_questions": 174,
+    "valid_responses": 174,
+    "invalid_responses": 0,
+    "correct": 41,
+    "accuracy": 0.23563218390804597,
+    "valid_accuracy": 0.23563218390804597,
+    "avg_time": 1.4912905816374153
+  },
+  "qa_trained": {
+    "total_questions": 174,
+    "valid_responses": 174,
+    "invalid_responses": 0,
+    "correct": 41,
+    "accuracy": 0.23563218390804597,
+    "valid_accuracy": 0.23563218390804597,
+    "avg_time": 1.5134397210745976
+  },
+  "fulltext_trained": {
+    "total_questions": 174,
+    "valid_responses": 174,
+    "invalid_responses": 0,
+    "correct": 41,
+    "accuracy": 0.23563218390804597,
+    "valid_accuracy": 0.23563218390804597,
+    "avg_time": 1.4739862351581967
+  }
+}

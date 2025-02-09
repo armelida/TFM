@@ -1,0 +1,6 @@
+question_id,model,question_input,model_raw_output,answer,correct_answer,correct,time,tokens,error
+26,meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,"En relación con el metabolismo del hierro y su control mediado por hepcidina, es cierto que:",B,B,B,True,0.9387423992156982,,
+27,meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,¿Cuál de las siguientes alteraciones bioquímicas se observa en el reordenamiento metabólico de la diabetes mellitus?:,C,C,C,True,0.7243590354919434,,
+28,meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,"Una persona sana sufre una deshidratación tras realizar ejercicio físico intenso a altas temperaturas sin ingerir líquidos. Respecto a la activación del sistema renina-angiotensinaaldosterona en esas condiciones, señale la respuesta INCORRECTA:",D,D,A,False,0.48410987854003906,,
+29,meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,"De las siguientes afirmaciones relacionadas con las estructuras anatómicas que forman el manguito de los rotadores, señale la correcta:",B,B,B,True,0.6928093433380127,,
+30,meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,¿Cuál de las siguientes características de la anatomía del esófago es la que facilita la realización de la ecocardiografía transesofágica?:,C,C,C,True,1.1596736907958984,,

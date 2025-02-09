@@ -1,0 +1,12 @@
+{
+  "model": "grok-2-1212",
+  "total_questions": 174,
+  "completed": 174,
+  "errors": 0,
+  "correct": 151,
+  "accuracy": 0.867816091954023,
+  "avg_time": 0.3289779547987313,
+  "total_tokens": 40240,
+  "invalid_formats": 0,
+  "valid_responses": 174
+}

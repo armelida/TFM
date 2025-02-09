@@ -1,0 +1,11 @@
+{
+  "model": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+  "total_questions": 5,
+  "completed": 5,
+  "errors": 0,
+  "correct": 1,
+  "accuracy": 0.2,
+  "avg_time": 0.9038156509399414,
+  "avg_confidence": 0.25,
+  "valid_responses": 5
+}

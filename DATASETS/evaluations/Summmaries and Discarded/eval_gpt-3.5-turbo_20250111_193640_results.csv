@@ -1,0 +1,6 @@
+question_id,model,answer,correct_answer,correct,time,tokens,error
+26,gpt-3.5-turbo,B,B,True,0.7826530933380127,286,
+27,gpt-3.5-turbo,A,C,False,0.2206563949584961,216,
+28,gpt-3.5-turbo,D,A,False,0.22468900680541992,228,
+29,gpt-3.5-turbo,A,B,False,0.21431326866149902,233,
+30,gpt-3.5-turbo,C,C,True,0.336700439453125,241,

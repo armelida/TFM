@@ -1,0 +1,29 @@
+{
+  "vanilla": {
+    "total_questions": 5,
+    "valid_responses": 5,
+    "invalid_responses": 0,
+    "correct": 1,
+    "accuracy": 0.2,
+    "valid_accuracy": 0.2,
+    "avg_time": 1.2552929878234864
+  },
+  "qa_trained": {
+    "total_questions": 5,
+    "valid_responses": 5,
+    "invalid_responses": 0,
+    "correct": 1,
+    "accuracy": 0.2,
+    "valid_accuracy": 0.2,
+    "avg_time": 2.0035555362701416
+  },
+  "fulltext_trained": {
+    "total_questions": 5,
+    "valid_responses": 5,
+    "invalid_responses": 0,
+    "correct": 1,
+    "accuracy": 0.2,
+    "valid_accuracy": 0.2,
+    "avg_time": 1.7506417274475097
+  }
+}

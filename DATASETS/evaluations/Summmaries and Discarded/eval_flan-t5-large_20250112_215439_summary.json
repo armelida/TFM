@@ -1,0 +1,11 @@
+{
+  "model": "google/flan-t5-large",
+  "total_questions": 174,
+  "completed": 174,
+  "errors": 0,
+  "correct": 40,
+  "accuracy": 0.22988505747126436,
+  "avg_time": 8.332422666166021,
+  "invalid_formats": 0,
+  "valid_responses": 174
+}

@@ -1,0 +1,11 @@
+{
+  "model": "yi-34b-chat",
+  "total_questions": 5,
+  "completed": 0,
+  "errors": 5,
+  "correct": 0,
+  "accuracy": 0.0,
+  "avg_time": NaN,
+  "invalid_formats": 5,
+  "valid_responses": 0
+}

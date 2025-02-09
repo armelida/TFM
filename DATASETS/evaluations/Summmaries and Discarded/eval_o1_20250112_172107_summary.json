@@ -1,0 +1,12 @@
+{
+  "model": "o1-preview-2024-09-12",
+  "total_questions": 5,
+  "completed": 5,
+  "errors": 0,
+  "correct": 5,
+  "accuracy": 1.0,
+  "avg_time": 11.050265312194824,
+  "avg_tokens": 1453.6,
+  "invalid_formats": 0,
+  "valid_responses": 5
+}

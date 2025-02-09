@@ -1,0 +1,10 @@
+{
+  "model": "gpt-4",
+  "total_questions": 174,
+  "completed": 173,
+  "errors": 1,
+  "correct": 151,
+  "accuracy": 0.867816091954023,
+  "avg_time": 0.5825925507297406,
+  "total_tokens": 41704.0
+}

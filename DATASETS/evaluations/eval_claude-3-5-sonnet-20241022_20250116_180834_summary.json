@@ -1,0 +1,10 @@
+{
+  "model": "claude-3-5-sonnet-20241022",
+  "total_questions": 174,
+  "completed": 174,
+  "errors": 0,
+  "correct": 156,
+  "accuracy": 0.896551724137931,
+  "avg_time": 0.9916963207310644,
+  "total_tokens": 46165
+}

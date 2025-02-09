@@ -1,0 +1,6 @@
+question_id,model,question_input,model_raw_output,answer,correct_answer,correct,time,tokens,error
+26,grok-2-1212,"En relación con el metabolismo del hierro y su control mediado por hepcidina, es cierto que:",B,B,B,True,0.3743910789489746,266,
+27,grok-2-1212,¿Cuál de las siguientes alteraciones bioquímicas se observa en el reordenamiento metabólico de la diabetes mellitus?:,C,C,C,True,0.31305384635925293,206,
+28,grok-2-1212,"Una persona sana sufre una deshidratación tras realizar ejercicio físico intenso a altas temperaturas sin ingerir líquidos. Respecto a la activación del sistema renina-angiotensinaaldosterona en esas condiciones, señale la respuesta INCORRECTA:",A,A,A,True,0.7851407527923584,219,
+29,grok-2-1212,"De las siguientes afirmaciones relacionadas con las estructuras anatómicas que forman el manguito de los rotadores, señale la correcta:",B,B,B,True,0.2980937957763672,219,
+30,grok-2-1212,¿Cuál de las siguientes características de la anatomía del esófago es la que facilita la realización de la ecocardiografía transesofágica?:,C,C,C,True,0.29921746253967285,225,

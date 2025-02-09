@@ -1,0 +1,12 @@
+question_id,model,question_input,model_raw_output,answer,correct_answer,correct,time,tokens,error
+26,grok-beta,"En relación con el metabolismo del hierro y su control mediado por hepcidina, es cierto que:","B. El aumento de hierro sérico o la inflamación estimulan la síntesis de hepcidina en el hígado, que regula negativamente la función de la ferroportina.",B,B,True,1.0693888664245605,261.0,
+27,grok-beta,¿Cuál de las siguientes alteraciones bioquímicas se observa en el reordenamiento metabólico de la diabetes mellitus?:,,,C,False,,,"Invalid answer format: La respuesta correcta es:
+
+C. El incremento de la síntesis hepática de triglicéridos."
+28,grok-beta,"Una persona sana sufre una deshidratación tras realizar ejercicio físico intenso a altas temperaturas sin ingerir líquidos. Respecto a la activación del sistema renina-angiotensinaaldosterona en esas condiciones, señale la respuesta INCORRECTA:",,,A,False,,,"Invalid answer format: La respuesta **INCORRECTA** es:
+
+D. Aumenta la secreción renal de potasio."
+29,grok-beta,"De las siguientes afirmaciones relacionadas con las estructuras anatómicas que forman el manguito de los rotadores, señale la correcta:",B.,B,B,True,0.36357879638671875,176.0,
+30,grok-beta,¿Cuál de las siguientes características de la anatomía del esófago es la que facilita la realización de la ecocardiografía transesofágica?:,,,C,False,,,"Invalid answer format: La respuesta correcta es:
+
+C. El esófago recorre la cara posterior de la aurícula izquierda."

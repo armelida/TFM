@@ -1,0 +1,12 @@
+{
+  "model": "grok-beta",
+  "total_questions": 5,
+  "completed": 5,
+  "errors": 0,
+  "correct": 4,
+  "accuracy": 0.8,
+  "avg_time": 0.5312132358551025,
+  "total_tokens": 1135,
+  "invalid_formats": 0,
+  "valid_responses": 5
+}

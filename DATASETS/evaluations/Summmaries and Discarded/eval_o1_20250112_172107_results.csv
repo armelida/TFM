@@ -1,0 +1,77 @@
+question_id,model,question_input,model_raw_output,answer,correct_answer,correct,time,tokens,error
+26,o1-preview-2024-09-12,"En relación con el metabolismo del hierro y su control mediado por hepcidina, es cierto que:","B
+
+**Explanation:**
+
+Hepcidin is a peptide hormone produced by the liver that plays a central role in regulating iron homeostasis in the body. It controls the amount of iron absorbed from the diet and released from macrophages by binding to and causing the degradation of ferroportin, the only known iron exporter present on the surface of enterocytes (intestinal cells) and macrophages.
+
+**Option B is correct** because:
+
+- **An increase in serum iron levels or inflammation stimulates the synthesis of hepcidin in the liver.** High levels of iron in the blood signal to the liver that there is sufficient iron, leading to increased hepcidin production to prevent further iron absorption.
+  
+- **Hepcidin negatively regulates the function of ferroportin.** By binding to ferroportin, hepcidin promotes its internalization and degradation, reducing iron export from enterocytes into the bloodstream and from macrophages recycling old red blood cells. This action decreases serum iron levels.
+
+**Options A, C, and D are incorrect:**
+
+- **Option A:** Hypoxia-inducible factor (HIF) activation due to low oxygen levels actually leads to **decreased** hepcidin expression, allowing for increased iron availability to support erythropoiesis (red blood cell production) under hypoxic conditions.
+
+- **Option C:** Hepcidin does not inactivate the divalent metal transporter 1 (DMT1). Instead, it targets ferroportin. DMT1 is responsible for importing iron into enterocytes from the intestinal lumen and is regulated differently.
+
+- **Option D:** In type 1 hereditary hemochromatosis, mutations in the HFE gene lead to **decreased** hepcidin production, not increased. This reduction in hepcidin levels results in enhanced iron absorption and accumulation in tissues, causing the symptoms associated with hemochromatosis.
+
+---
+
+Therefore, the correct answer is **B**.",B,B,True,9.268455028533936,1397,
+27,o1-preview-2024-09-12,¿Cuál de las siguientes alteraciones bioquímicas se observa en el reordenamiento metabólico de la diabetes mellitus?:,"C
+
+In diabetes mellitus, there is impaired insulin signaling due to either insulin deficiency (type 1 diabetes) or insulin resistance (type 2 diabetes). Insulin normally promotes the storage of glucose and inhibits the breakdown of fats. When insulin action is deficient, several metabolic changes occur:
+
+- **Increased Hepatic Triglyceride Synthesis:** Without effective insulin signaling, there is increased mobilization of free fatty acids from adipose tissue due to enhanced lipolysis. The liver takes up these excess free fatty acids and, along with elevated glucose levels, synthesizes triglycerides. This leads to an increase in hepatic triglyceride synthesis (Option C), contributing to hypertriglyceridemia and fatty liver disease commonly seen in diabetic patients.
+
+**Why the other options are incorrect:**
+
+- **Option A:** GLUT4 translocation is indeed decreased in muscle and adipose tissue due to impaired insulin action, leading to reduced glucose uptake. However, GLUT2 transporters are constitutively expressed in the liver and pancreatic β-cells and are not regulated by insulin, so their translocation does not decrease in diabetes mellitus. Therefore, Option A is incorrect because it incorrectly includes GLUT2 and oversimplifies the mechanism.
+
+- **Option B:** Increased urea production does occur in diabetes due to enhanced protein catabolism and amino acid degradation for gluconeogenesis. However, the urea increase is mainly from amino acid catabolism, not nucleotidic degradation. Nucleotide breakdown contributes minimally to urea production, making Option B incorrect.
+
+- **Option D:** The liver does not synthesize glycerol de novo as a gluconeogenic substrate. Instead, glycerol is produced from the breakdown of triglycerides in adipose tissue and is then transported to the liver for gluconeogenesis. Therefore, there is no increase in hepatic synthesis of glycerol itself, making Option D incorrect.",C,C,True,18.418216228485107,2030,
+28,o1-preview-2024-09-12,"Una persona sana sufre una deshidratación tras realizar ejercicio físico intenso a altas temperaturas sin ingerir líquidos. Respecto a la activación del sistema renina-angiotensinaaldosterona en esas condiciones, señale la respuesta INCORRECTA:","A
+
+Under conditions of dehydration after intense physical exercise without fluid intake, the renin-angiotensin-aldosterone system (RAAS) is activated to conserve water and maintain blood pressure. Although there are changes in arterial pressure due to decreased blood volume, the body employs autoregulatory mechanisms to maintain a relatively constant glomerular filtration rate (GFR). One key mechanism is the vasoconstriction of the efferent arterioles mediated by angiotensin II, which helps maintain GFR despite lower arterial pressure. Therefore, changes in arterial pressure do **not** necessarily result in proportional changes in glomerular filtration. Option A is incorrect because it suggests a direct proportional relationship between arterial pressure and GFR, which doesn't account for the body's autoregulatory responses during dehydration.",A,A,True,8.541621208190918,1250,
+29,o1-preview-2024-09-12,"De las siguientes afirmaciones relacionadas con las estructuras anatómicas que forman el manguito de los rotadores, señale la correcta:","B
+
+**Explicación:**
+
+**Opción B:** *""Los tendones de los músculos del manguito refuerzan la cápsula fibrosa de la articulación escápulo-humeral.""*
+
+Esta afirmación es correcta. El manguito de los rotadores está compuesto por los tendones de cuatro músculos: supraespinoso, infraespinoso, redondo menor y subescapular. Estos tendones se fusionan con la cápsula fibrosa de la articulación glenohumeral (escápulo-humeral), reforzándola y estabilizando la articulación del hombro durante los movimientos. Su función es crucial para mantener la cabeza del húmero centrada en la cavidad glenoidea de la escápula.
+
+---
+
+**Análisis de las demás opciones:**
+
+**Opción A:** *""Los músculos que forman el manguito de los rotadores son el subescapular, el supraespinoso, el infraespinoso y el redondo mayor.""*
+
+Esta afirmación es incorrecta. El manguito de los rotadores está formado por los músculos:
+
+1. **Subescapular**
+2. **Supraespinoso**
+3. **Infraespinoso**
+4. **Redondo menor**
+
+El **redondo mayor** no forma parte del manguito de los rotadores. Aunque está ubicado en la región del hombro, su función y posición anatómica difieren. El redondo mayor participa en la rotación interna y aducción del brazo, pero no contribuye a la estabilidad dinámica de la articulación como lo hacen los músculos del manguito.
+
+---
+
+**Opción C:** *""El músculo infraespinoso rota el brazo en dirección interna.""*
+
+Esta afirmación es incorrecta. El **músculo infraespinoso** es un potento rotador **externo** (lateral) del brazo. Su contracción gira el húmero hacia afuera, alejando la cara anterior del brazo del cuerpo. Esta acción es opuesta a la rotación interna. Junto con el redondo menor, es esencial para los movimientos de rotación lateral del hombro.
+
+---
+
+**Opción D:** *""El músculo supraespinoso ayuda a la aducción (aproximación) del brazo.""*
+
+Esta afirmación es incorrecta. El **músculo supraespinoso** es fundamental en el inicio de la **abducción** del brazo, no en su aducción. Es responsable de los primeros 15 a 30 grados de levantamiento lateral del brazo. Después de este rango inicial, el músculo deltoides toma un papel más dominante en la continuación de la abducción. El supraespinoso no participa en la aproximación del brazo al cuerpo (aducción).",B,B,True,10.554573774337769,1471,
+30,o1-preview-2024-09-12,¿Cuál de las siguientes características de la anatomía del esófago es la que facilita la realización de la ecocardiografía transesofágica?:,"C
+
+The esophagus runs along the posterior surface of the left atrium, which facilitates transesophageal echocardiography (TEE). This close anatomical relationship allows the ultrasound probe inserted into the esophagus during TEE to be positioned directly behind the heart, providing clear and detailed images of the left atrium and other posterior cardiac structures. This proximity enhances the accuracy and quality of the echocardiographic assessment, making Option C the correct choice.",C,C,True,8.468460321426392,1120,

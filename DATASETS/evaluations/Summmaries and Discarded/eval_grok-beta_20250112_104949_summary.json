@@ -1,0 +1,10 @@
+{
+  "model": "grok-beta",
+  "total_questions": 36,
+  "completed": 20,
+  "errors": 16,
+  "correct": 20,
+  "accuracy": 0.5555555555555556,
+  "avg_time": 0.5849416851997375,
+  "total_tokens": 3273.0
+}

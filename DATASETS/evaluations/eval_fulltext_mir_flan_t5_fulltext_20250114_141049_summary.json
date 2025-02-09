@@ -1,0 +1,12 @@
+{
+  "model": "/content/drive/MyDrive/TFM2/models/mir_flan_t5_fulltext",
+  "total_questions": 174,
+  "completed": 174,
+  "errors": 0,
+  "correct": 45,
+  "accuracy": 0.25862068965517243,
+  "valid_accuracy": 0.25862068965517243,
+  "avg_time": 1.7952480768335277,
+  "valid_responses": 174,
+  "invalid_responses": 0
+}

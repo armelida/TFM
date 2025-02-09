@@ -1,0 +1,4 @@
+,total_questions,valid_responses,invalid_responses,correct,accuracy,valid_accuracy,avg_time
+vanilla,5,5,0,1,0.2,0.2,1.2552929878234864
+qa_trained,5,5,0,1,0.2,0.2,2.0035555362701416
+fulltext_trained,5,5,0,1,0.2,0.2,1.7506417274475097

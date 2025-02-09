@@ -1,0 +1,6 @@
+question_id,model,question_input,model_raw_output,answer,correct_answer,correct,time,tokens,error
+26,yi-34b-chat,"En relación con el metabolismo del hierro y su control mediado por hepcidina, es cierto que:",,,B,False,,,RetryError[<Future at 0x7cce55b68e20 state=finished raised HTTPError>]
+27,yi-34b-chat,¿Cuál de las siguientes alteraciones bioquímicas se observa en el reordenamiento metabólico de la diabetes mellitus?:,,,C,False,,,RetryError[<Future at 0x7cce55b5a890 state=finished raised HTTPError>]
+28,yi-34b-chat,"Una persona sana sufre una deshidratación tras realizar ejercicio físico intenso a altas temperaturas sin ingerir líquidos. Respecto a la activación del sistema renina-angiotensinaaldosterona en esas condiciones, señale la respuesta INCORRECTA:",,,A,False,,,RetryError[<Future at 0x7cce312663e0 state=finished raised HTTPError>]
+29,yi-34b-chat,"De las siguientes afirmaciones relacionadas con las estructuras anatómicas que forman el manguito de los rotadores, señale la correcta:",,,B,False,,,RetryError[<Future at 0x7cce55b5a800 state=finished raised HTTPError>]
+30,yi-34b-chat,¿Cuál de las siguientes características de la anatomía del esófago es la que facilita la realización de la ecocardiografía transesofágica?:,,,C,False,,,RetryError[<Future at 0x7cce31264700 state=finished raised HTTPError>]

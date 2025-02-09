@@ -1,0 +1,71 @@
+question_id,model,question_input,model_raw_output,answer,correct_answer,correct,time,tokens,error
+26,grok-beta,"En relación con el metabolismo del hierro y su control mediado por hepcidina, es cierto que:","B. El aumento de hierro sérico o la inflamación estimulan la síntesis de hepcidina en el hígado, que regula negativamente la función de la ferroportina.",B,B,True,1.0931000709533691,261.0,
+27,grok-beta,¿Cuál de las siguientes alteraciones bioquímicas se observa en el reordenamiento metabólico de la diabetes mellitus?:,,,C,False,,,"Invalid answer format: La respuesta correcta es:
+
+C. El incremento de la síntesis hepática de triglicéridos."
+28,grok-beta,"Una persona sana sufre una deshidratación tras realizar ejercicio físico intenso a altas temperaturas sin ingerir líquidos. Respecto a la activación del sistema renina-angiotensinaaldosterona en esas condiciones, señale la respuesta INCORRECTA:",,,A,False,,,"Invalid answer format: La respuesta **INCORRECTA** es:
+
+D. Aumenta la secreción renal de potasio."
+29,grok-beta,"De las siguientes afirmaciones relacionadas con las estructuras anatómicas que forman el manguito de los rotadores, señale la correcta:",B.,B,B,True,0.4227888584136963,176.0,
+30,grok-beta,¿Cuál de las siguientes características de la anatomía del esófago es la que facilita la realización de la ecocardiografía transesofágica?:,C.,C,C,True,0.35518360137939453,182.0,
+31,grok-beta,"Una persona joven y sana se encuentra en posición anatómica erguida. En relación con el flujo sanguíneo a través de los pulmones y su distribución, señale la respuesta INCORRECTA:",,,D,False,,,"Invalid answer format: La respuesta **INCORRECTA** es:
+
+D. **Una disminución significativa de la concentración de O2 en los alveolos provoca una vasodilatación de los vasos adyacentes.**
+
+En realidad, una disminución significativa de la concentración de O2 en los alveolos provoca una **vasoconstricción** de los vasos adyacentes, no una vasodilatación."
+32,grok-beta,"En relación con el potencial de acción cardiaco, señale la afirmación correcta:",,,A,False,,,"Invalid answer format: La afirmación correcta es:
+
+**A.**"
+33,grok-beta,Una de las siguientes enfermedades se produce por hipermetilación de una expansión de tripletes CGG en la región promotora:,C. Síndrome del cromosoma X frágil.,C,C,True,0.5180275440216064,125.0,
+34,grok-beta,"Un rasgo que aparece en todas las generaciones, tanto en varones como en mujeres, pero los varones no lo transmiten a sus hijos varones, se corresponde con uno de los siguientes patrones de herencia:",,,B,False,,,"Invalid answer format: La respuesta correcta es:
+
+B. Ligada al sexo dominante."
+35,grok-beta,Las células tumorales desarrollan diferentes mecanismos dirigidos a evitar la activación de la respuesta inmunitaria antitumoral. Entre las inmunoterapias antitumorales dirigidas a contrarrestar estos mecanismos de evasión destaca:,D. El uso de anticuerpos monoclonales inmunomoduladores frente a PD-1 o los ligandos de PD-1.,D,D,True,0.8707728385925293,237.0,
+36,grok-beta,"En relación con el mecanismo inmunológico implicado el rechazo de órganos sólidos trasplantados, señale la respuesta INCORRECTA:",D.,D,D,True,1.112572431564331,213.0,
+37,grok-beta,La vacunación utilizando ARN mensajero de la proteína S (Spike) del SARS-CoV-2 va dirigida a la protección de la población frente a la COVID-19. En relación con la respuesta a esta vacuna señale la afirmación INCORRECTA:,,,A,False,,,"Invalid answer format: La afirmación **INCORRECTA** es:
+
+A. **A.** La respuesta no requiere la colaboración de los linfocitos T, al ser un antígeno timoindependiente."
+38,grok-beta,"En relación con las enfermedades asociadas al mecanismo de hipersensibilidad tipo II, señale la respuesta INCORRECTA:",,,A,False,,,"Invalid answer format: La respuesta **INCORRECTA** es:
+
+A. La presencia de anticuerpos frente al receptor de las hormonas tiroideas T3 y T4 se asocia a la enfermedad de Graves.
+
+La enfermedad de Graves está asociada con anticuerpos que estimulan el receptor de la TSH (hormona estimulante de la tiroides), no directamente con los receptores de T3 y T4."
+39,grok-beta,En el asma bronquial son numerosas las células que participan en la inflamación de la vía aérea. En relación con las diferentes poblaciones linfocitarias y las citocinas que liberan ¿cuál de las siguientes afirmaciones es correcta?:,C. Las citocinas IL4 e IL13 son las favorecedoras de la síntesis de IgE.,C,C,True,0.7793657779693604,213.0,
+40,grok-beta,"En un paciente de 16 años de edad que presenta desde hace varios meses, importante sequedad de la piel lesiones eccematosas en zonas de flexión, fundamentalmente en las fosas cubital y poplítea, de carácter muy pruriginoso que inducen al rascado, y que cursa con exacerbaciones y remisiones, el diagnóstico clínico más probable es:",B.,B,B,True,0.33561086654663086,155.0,
+41,grok-beta,"Mujer de 63 años en tratamiento con sulfamidas (trimetoprim-sulfametoxazol) vía oral por una infección de vías urinarias bajas. Acude a urgencias por presentar lesiones cutáneas y en mucosas (oral, conjuntival y genital). Las lesiones cutáneas tienen forma de máculas irregulares oscuras, con desprendimiento cutáneo y afectan a más del 30 % de la superficie corporal. Se interpreta como una posible reacción farmacológica grave. ¿Cuál de los siguientes diagnósticos es más probable?:",C. Necrólisis epidérmica tóxica.,C,C,True,0.49237680435180664,224.0,
+42,grok-beta,Un paciente acude a consulta recientemente diagnosticado de esofagitis eosinofílica y tras exponerle las opciones de tratamiento prefiere hacer tratamiento dietético con dieta de exclusión de dos alimentos. ¿Cuáles son los alimentos que tendría que retirar de la dieta?:,D. Leche de vaca y trigo.,D,D,True,0.5757954120635986,148.0,
+43,grok-beta,"En relación con las condiciones necesarias para la implementación de un programa de cribado poblacional de cáncer, señale la respuesta INCORRECTA:",,,A,False,,,"Invalid answer format: La respuesta **INCORRECTA** es:
+
+A. Debe existir una prueba adecuada para la detección, **independientemente de la aceptabilidad de la prueba en la población**."
+44,grok-beta,¿Qué  tipo  de  estudio  epidemiológico  NO PERMITE calcular un riesgo relativo?:,D. Un estudio de casos y controles.,D,D,True,0.5002174377441406,112.0,
+45,grok-beta,Al aumentar el tamaño muestral de un estudio transversal (o de prevalencia) aumenta:,D. La precisión del estudio.,D,D,True,0.44110608100891113,96.0,
+46,grok-beta,"En un estudio sobre la validez de una prueba diagnóstica, para resumir la relación entre la sensibilidad y la especificidad de la prueba se puede usar:",B. La curva ROC (receiver operating characteristics).,B,B,True,0.46843934059143066,122.0,
+47,grok-beta,"Para establecer si la exposición a radiaciones ionizantes de los trabajadores de una mina influye en la aparición de muertes por cáncer de pulmón se decide en el año 2010 realizar un estudio. Los investigadores recopilan información del registro de exposición a radiaciones en la empresa minera, con datos sobre las radiaciones acumuladas por cada trabajador desde el año 1980 al 2000, año en que se cierra la mina. Y también recogen información sobre las muertes por cáncer de pulmón en esos trabajadores desde el año 1980 al año 2008, a partir de los registros de mortalidad existentes. Finalmente, comparan la mortalidad por cáncer de pulmón entre los trabajadores con mayor y menor exposición a las radiaciones ionizantes. ¿Qué tipo de diseño epidemiológico es éste?:",,,C,False,,,"Invalid answer format: La respuesta correcta es:
+
+C. Estudio de cohortes retrospectivo."
+48,grok-beta,Un hombre de 52 años se está recuperando de una dependencia al alcohol y solicita apoyo farmacológico para prevenir la recaída y mantenerse abstinente. ¿Cuál de los siguientes medicamentos está indicado como tratamiento complementario para mantener la abstinencia en el marco de un programa de tratamiento de pacientes desintoxicados que han sido dependientes de alcohol?:,C. Acamprosato.,C,C,True,0.8621177673339844,150.0,
+49,grok-beta,Un artículo describe un ensayo clínico aleatorizado en fase IV en una muestra de adultos obtenida de 42 centros sanitarios de 16 países distintos que recibieron un fármaco en estudio y un placebo durante 12 semanas. ¿Cuál de las siguientes afirmaciones describe mejor el contexto de esta investigacion atendiendo a estas características?:,B.,B,B,True,0.37922120094299316,245.0,
+50,grok-beta,"Un ensayo clínico cuyo objetivo fundamental es obtener datos preliminares de eficacia terapéutica y establecer la relación entre las dosis y la eficacia para determinar un intervalo de dosis adecuadas, es un:",C. Ensayo clínico fase II.,C,C,True,0.46112799644470215,131.0,
+51,grok-beta,Para la detección de reacciones adversas a medicamentos poco frecuentes (<1/10.000) el método de fármacovigilancia más adecuado es:,,,A,False,,,"Invalid answer format: La respuesta correcta es:
+
+A. Notificaciones espontáneas."
+52,grok-beta,"Uno de los siguientes fármacos, además de su efecto analgésico, posee un efecto relajante de fibra muscular lisa:",,,D,False,,,"Invalid answer format: La respuesta correcta es:
+
+D. Metamizol."
+53,grok-beta,La hipertermia maligna NO se relaciona con:,C. Propofol.,C,C,True,0.41448426246643066,82.0,
+54,grok-beta,"Según la clasificación del estado físico preoperatorio del paciente establecida por la ASA (Sociedad Americana de Anestesiología), un paciente con hipertensión arterial mal controlada correspondería a un grado:",B. III,B,B,True,0.3888370990753174,98.0,
+55,grok-beta,El carcinoma adenoide quístico:,C.,C,C,True,0.33321046829223633,118.0,
+56,grok-beta,Respecto al cáncer de lengua:,D. El tipo histológico más frecuente es el carcinoma epidermoide y su tratamiento quirúrgico asocia habitualmente disección ganglionar cervical.,D,D,True,0.8944778442382812,185.0,
+57,grok-beta,¿Cuál de los siguientes colgajos NO PODRÍA ser utilizado para realizar la reconstrucción de un defecto en la región cervical posterior?:,,,A,False,,,"Invalid answer format: La respuesta correcta es:
+
+A. Colgajo anterolateral fasciocutáneo de muslo, pediculado."
+58,grok-beta,"Hombre de 45 años con antecedentes de queratitis herpética de repetición en ojo izquierdo (OI). Consulta por dolor, hiperemia y visión borrosa en OI de un día de evolución. A la exploración presenta una agudeza visual con su corrección de 1,0 en OD y 0,6 en OI, la presión intraocular es de",,,A,False,,,"Invalid answer format: La respuesta correcta es:
+
+D. **Queratitis epitelial herpética.**"
+59,grok-beta,"Mujer de 57 años que consulta para una revisión rutinaria. En la exploración oftalmológica presenta una agudeza visual (AV) sin corrección de 1,0 en OD y 0,5 en OI, la AV con agujero estenopeico es de 1,0 en ambos ojos y la presión intraocular es de 16 mmHg en ambos ojos. ¿Cuál de las siguientes sería la actitud a seguir más correcta?:",,,A,False,,,"Invalid answer format: La respuesta correcta es:
+
+**A.**"
+60,grok-beta,El defecto campimétrico asociado a una lesión en la cintilla óptica derecha es:,,,A,False,,,"Invalid answer format: La respuesta correcta es:
+
+A. **Hemianopsia homónima izquierda.**"
+61,grok-beta,"Hombre de 40 años que presenta un cuadro vertiginoso de varias horas de evolución. No presenta hipoacusia, acúfenos ni sensación de taponamiento ótico. En la exploración se observa un nistagmo espontáneo. ¿Qué características del nistagmo orientarán hacia un vértigo periférico?:",,,A,False,,,"API Error: 429 - {""code"":""Some resource has been exhausted"",""error"":""Too many requests: RejectLimits(LimitsInfo { id: Buf(\""/team:bb96fb8d-6fbf-4864-9b6a-a3ecfcbbbd6b/u:ac9ba097-898d-45c1-9611-68d66356b267\""), req_type: Buf(\""/rt:grok-beta-1.0.0\""), actual: Values { rps: 1, rph: 57 }, expected: Values { rps: 1, rph: 1200 } })""}"

@@ -1,0 +1,11 @@
+{
+  "model": "gemini-pro",
+  "total_questions": 174,
+  "completed": 173,
+  "errors": 1,
+  "correct": 116,
+  "accuracy": 0.6666666666666666,
+  "avg_time": 1.086122624446891,
+  "invalid_formats": 1,
+  "valid_responses": 173
+}

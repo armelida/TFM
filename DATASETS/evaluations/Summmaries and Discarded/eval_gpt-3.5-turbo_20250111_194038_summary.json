@@ -1,0 +1,10 @@
+{
+  "model": "gpt-3.5-turbo",
+  "total_questions": 174,
+  "completed": 174,
+  "errors": 0,
+  "correct": 105,
+  "accuracy": 0.603448275862069,
+  "avg_time": 0.33320306909495384,
+  "total_tokens": 42040
+}

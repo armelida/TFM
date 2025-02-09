@@ -1,0 +1,14 @@
+{
+  "vanilla": {
+    "total_questions": 174,
+    "valid_responses": 174,
+    "invalid_responses": 0,
+    "correct_answers": 40,
+    "accuracy": 0.22988505747126436,
+    "valid_accuracy": 0.22988505747126436,
+    "avg_time": 0.09354787174312548,
+    "total_points": 120,
+    "max_points": 522,
+    "percentage_score": 22.988505747126435
+  }
+}

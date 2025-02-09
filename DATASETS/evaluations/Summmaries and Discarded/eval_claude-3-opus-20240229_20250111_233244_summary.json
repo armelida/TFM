@@ -1,0 +1,10 @@
+{
+  "model": "claude-3-opus-20240229",
+  "total_questions": 5,
+  "completed": 0,
+  "errors": 5,
+  "correct": 0,
+  "accuracy": 0.0,
+  "avg_time": NaN,
+  "total_tokens": 0
+}

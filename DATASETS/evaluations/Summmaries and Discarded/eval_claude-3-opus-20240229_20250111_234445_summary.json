@@ -1,0 +1,10 @@
+{
+  "model": "claude-3-opus-20240229",
+  "total_questions": 174,
+  "completed": 174,
+  "errors": 0,
+  "correct": 152,
+  "accuracy": 0.8735632183908046,
+  "avg_time": 1.4440784056981404,
+  "total_tokens": 46165
+}
