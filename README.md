@@ -1,5 +1,21 @@
 # Evaluation Framework for Spanish Medical Applications of Large Language Models
 
+---
+**💡 Note:**
+
+> A new version of the Model Evaluator is currently under development, featuring:
+>
+> * Questions from the 2025 MIR exams.
+> * Evaluation of the latest AI models.
+> * Expanded testing of diverse prompting strategies.
+> * Extension of the evaluation framework to other life-sciences knowledge domains.
+> * Enhanced metadata and results analysis.
+> * Improved visualization of evaluation outcomes.
+>
+> Track the progress of the ongoing 2025 evaluation here: [https://github.com/armelida/MELIDA](https://github.com/armelida/MELIDA)
+
+---
+
 ## Overview
 This repository contains all relevant documentation and code for the Master's Thesis by **Alberto Ramón Mélida Asensio** at **Universidad Internacional de La Rioja (UNIR)**. The thesis focuses on evaluating Large Language Models (LLMs) for **medical applications in Spanish**, particularly through an automated pipeline using **MIR exam questions**.
 
